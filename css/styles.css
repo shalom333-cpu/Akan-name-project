@@ -29,3 +29,9 @@ p{
   width: 500px;
   margin: 5% auto;
 }
+.form-area{
+  display: flex;
+  background-color: wheat;
+  border-radius: 25px;
+  padding: 1em;
+}
