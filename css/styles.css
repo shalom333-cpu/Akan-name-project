@@ -35,3 +35,9 @@ p{
   border-radius: 25px;
   padding: 1em;
 }
+.radio{
+  font-size: 12px;
+  font-weight: 300;
+  text-transform: uppercase;
+  display: inline-block;
+}
