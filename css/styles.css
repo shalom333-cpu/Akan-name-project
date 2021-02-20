@@ -41,3 +41,6 @@ p{
   text-transform: uppercase;
   display: inline-block;
 }
+.radio + .radio{
+  margin-left: 15px;
+}
