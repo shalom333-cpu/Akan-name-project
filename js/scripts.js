@@ -9,3 +9,19 @@ function giveDayNumberofDate(val1){
   number = dt.getDay();
   return number;
 }
+
+function givePersonName(val2){
+
+  var producedName = "";
+  switch(val2){
+    case 'Female':
+      producedName = femalNameArrays[dayNumber];
+      break;
+
+    case 'Male':
+      producedName = maleNameArrays[dayNumber];
+      break; 
+  }
+  
+  return producedName;
+}
