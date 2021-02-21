@@ -33,13 +33,10 @@
       <li>Saturday: Ama</li>
     </ul>
     <div class="wrapper">
-      <form action="" class="form-area">
+      <form action="index.html" method="post" class="form-area" id="name_form" enctype="multipart/form-data"> 
         <div class="details-area">
-         
-          <label for="month">Month</label>
-          <input type="month" name="" id="month">
-
-          <button type="submit">Submit</button>
+          <label for="month">Date</label>
+          <input type="date" name="date_of_birth" value="" id="month" id="dateOfBirth">
         </div>
         <div class="radio-group">
             <label class="radio">
@@ -53,7 +50,10 @@
               <span></span>
             </label>
         </div>
+    <br>
+    <button type="submit" value="Submit">Submit</button>
       </form>
     </div>
+    <script type="text/javascript" src="js/scripts.js"></script>
   </body>
 </html>
