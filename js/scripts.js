@@ -6,11 +6,10 @@ let femalNameArrays = ["Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"
 
 
 function giveDayNumberofDate(val1) {
-  /*initialize a blank variable*/
+
   var number = "";
 
   var dt = new Date(val1);
-  /*get day Number*/
   number = dt.getDay();
   return number;
 }
