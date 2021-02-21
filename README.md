@@ -17,7 +17,7 @@ To be able to use this website, all you need is a link to the site and a stable 
 
 | Behaviour | input | output |
 | -------- | -------- | -------- | 
-| Show user Akan name using alert feature | Birthday in the format dd/mm/yy and gender | "Your Akan name is e.g Kwasi,Akosua,Kwadwo, Adwoa etc. |
+| Show user Akan name using alert feature | Birthday in the format dd/mm/yy and select gender | "Your Akan name is e.g Kwasi,Akosua,Kwadwo, Adwoa etc. |
 
 
 ## Tech Used
