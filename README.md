@@ -17,7 +17,7 @@ To be able to use this website, all you need is a link to the site and a stable 
 
 | Behaviour | input | output |
 | -------- | -------- | -------- | 
-| Show user Akan name using alert feature | Birthday in the format dd/mm/yy and select gender | "Your Akan name is e.g Kwasi,Akosua,Kwadwo, Adwoa etc. |
+| Show user Akan name using alert feature | Birthday in the format dd/mm/yy and select gender | "Your Akan name is e.g Kwasi,Akosua,Kwadwo, Adwoa" etc. |
 
 
 ## Tech Used
@@ -32,4 +32,4 @@ In case of any concerns with regards to this project please contact me through t
 Also, feel free to contribute to my code and make this project.
 
 ### License
-Copyright (C) 2021 Shalom Eberia
+Copyright (C) 2021 Shalom Eberia Licensed by MIT
