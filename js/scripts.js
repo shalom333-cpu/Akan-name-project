@@ -27,5 +27,11 @@ function givePersonName(val2){
 }
 
 form.addEventListener('submit',(event) => {
-   
+  var assignedName = dayNumber = "";
+
+  let dateExtract = form.elements['date_of_birth'];
+  let dateOfBirth = dateExtract.value;
+
+  let genderExtract = form.elements['gender'];
+  let userGender = genderExtract.value; 
 }
