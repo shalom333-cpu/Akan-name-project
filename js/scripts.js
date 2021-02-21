@@ -25,3 +25,7 @@ function givePersonName(val2){
   
   return producedName;
 }
+
+form.addEventListener('submit',(event) => {
+   
+}
