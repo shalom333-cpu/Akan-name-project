@@ -24,12 +24,12 @@ To be able to use this website, all you need is a link to the site and a stable 
 This project was written using HTML, CSS and JavaScript.
 
 ## Contact
-In case of any concerns with regards to this project please contact me through the following channels;
+In case of any concerns with regards to this project please contact me through the following platforms;
 1. Email: elishaolimbas@gamil.com
 2. Twitter: @shalomelijah
 3. Instagram: @shalomelijah
 
-Also, feel free to contribute to my code and make this project.
+Also, feel free to contribute to my code and make this project better.
 
 ### License
 Copyright (C) 2021 Shalom Eberia Licensed by MIT
